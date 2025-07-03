@@ -1,1 +1,1 @@
-https://shasha56.github.io/shinsen
+https://shasha56.github.io/shinsen/
