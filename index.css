@@ -1,0 +1,25 @@
+body {
+    font-size: large;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+}
+
+label {
+    color: white;
+}
+
+button {
+    background-color: aquamarine;
+    border-color: white;
+}
+
+#time {
+    color: rgb(115, 220, 252);
+}
+
+#result {
+    color: red;
+}
